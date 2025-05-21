@@ -1,0 +1,43 @@
+------ Start Self-Play Iteration 1 ------
+[AlphaZeroParallel] Finished 20 episodes (10370 examples) in 56.165s, Win: 8, Draw: 0, Lose: 12
+[TRAIN DATA SIZE]: 10370
+[AlphaZeroParallel] Start evaluating with last best model for 20 round
+[EVALUATION RESULT]: currrent_win5, last_win15, draw0; win_rate=0.250
+[REJECT NEW MODEL]
+------ Finished Self-Play Iteration 1 in 183.611s ------
+
+------ Start Self-Play Iteration 2 ------
+[AlphaZeroParallel] Finished 20 episodes (10740 examples) in 42.309s, Win: 11, Draw: 0, Lose: 9
+[TRAIN DATA SIZE]: 21110
+[AlphaZeroParallel] Start evaluating with last best model for 20 round
+[EVALUATION RESULT]: currrent_win10, last_win10, draw0; win_rate=0.500
+[REJECT NEW MODEL]
+------ Finished Self-Play Iteration 2 in 184.259s ------
+
+------ Start Self-Play Iteration 3 ------
+[AlphaZeroParallel] Finished 20 episodes (10840 examples) in 39.490s, Win: 6, Draw: 0, Lose: 14
+[TRAIN DATA SIZE]: 31950
+[AlphaZeroParallel] Start evaluating with last best model for 20 round
+[EVALUATION RESULT]: currrent_win9, last_win11, draw0; win_rate=0.450
+[REJECT NEW MODEL]
+------ Finished Self-Play Iteration 3 in 175.797s ------
+
+------ Start Self-Play Iteration 4 ------
+[AlphaZeroParallel] Finished 20 episodes (10250 examples) in 38.282s, Win: 11, Draw: 0, Lose: 9
+[TRAIN DATA SIZE]: 42200
+[AlphaZeroParallel] Start evaluating with last best model for 20 round
+[EVALUATION RESULT]: currrent_win5, last_win5, draw10; win_rate=0.500
+[REJECT NEW MODEL]
+------ Finished Self-Play Iteration 4 in 137.415s ------
+
+------ Start Self-Play Iteration 5 ------
+[AlphaZeroParallel] Finished 20 episodes (11090 examples) in 40.094s, Win: 12, Draw: 0, Lose: 8
+[TRAIN DATA SIZE]: 53290
+[AlphaZeroParallel] Start evaluating with last best model for 20 round
+[EVALUATION RESULT]: currrent_win3, last_win7, draw10; win_rate=0.300
+[REJECT NEW MODEL]
+------ Finished Self-Play Iteration 5 in 296.188s ------
+
+------ Start Self-Play Iteration 6 ------
+[AlphaZeroParallel] Finished 20 episodes (9220 examples) in 43.102s, Win: 12, Draw: 0, Lose: 8
+[TRAIN DATA SIZE]: 62510
